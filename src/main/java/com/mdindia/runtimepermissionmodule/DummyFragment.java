@@ -12,9 +12,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.Toast;
 
-/**
- * Created by Faheem.Raza on 30/05/2017.
- */
+
 
 public class DummyFragment extends Fragment implements View.OnClickListener {
 

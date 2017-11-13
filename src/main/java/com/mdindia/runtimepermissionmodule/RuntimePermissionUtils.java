@@ -21,9 +21,7 @@ import android.widget.LinearLayout;
 
 import java.util.ArrayList;
 
-/**
- * Created by Faheem.Raza on 18/05/2017.
- */
+
 
 public class RuntimePermissionUtils extends AppCompatActivity {
 
